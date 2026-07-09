@@ -1,6 +1,6 @@
-https://github.com/user-attachments/assets/b30ecca5-b3a8-446e-870e-1401a1df9d96
-
 # Egypt Food Security & Economic Affordability Analysis (2020–2024)
+
+https://github.com/user-attachments/assets/b30ecca5-b3a8-446e-870e-1401a1df9d96
 
 # 🇪🇬 Egypt Food Security & Economic Affordability Analysis (2020–2024)
 ### *Unmasking the Illusion of Wealth Behind Egypt's Rising Wages*
@@ -58,9 +58,9 @@ An **interactive, 4-page Power BI dashboard**, purpose-built for policymakers to
 
 | Layer | Tools |
 |:--|:--|
-| 📊 Data Modeling & Visualization | Power BI, DAX |
-| 🔄 Data Transformation & ETL | Power Query (M Language) |
-| 🐍 Data Processing & Analysis | Python |
-| 🎨 UI/UX & Dashboard Design | Figma |
+| 🔄 Data Extraction & ETL | **Excel** & **Power Query (M Language)** |
+| 📊 Data Modeling & Analysis | **Power BI Desktop**, **DAX** & **DAX Studio** |
+| 🧠 Insight Generation & Validation | **Gemini Advanced** |
+| 🎨 UI/UX & Dashboard Design | **Figma** |
 
 ---
