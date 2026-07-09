@@ -58,9 +58,9 @@ An **interactive, 4-page Power BI dashboard**, purpose-built for policymakers to
 
 | Layer | Tools |
 |:--|:--|
-| 🔄 Data Extraction & ETL | **Excel** & **Power Query (M Language)** |
-| 📊 Data Modeling & Analysis | **Power BI Desktop**, **DAX** & **DAX Studio** |
-| 🧠 Insight Generation & Validation | **Gemini Advanced** |
+| 🔄 Data Extraction & ETL | **Power Query (M Language)** |
+| 📊 Data Modeling & Analysis | **Power BI Desktop**, **DAX** |
+| 🧠 Insight Generation & Validation | **Gemini** |
 | 🎨 UI/UX & Dashboard Design | **Figma** |
 
 ---
